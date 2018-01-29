@@ -3,3 +3,5 @@ Shopping List
 - Milk
 - Punch 
 - Coke
+- Water
+- Goat Milk
