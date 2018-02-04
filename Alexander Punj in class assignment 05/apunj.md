@@ -29,7 +29,7 @@ PlayerUnknown's Battlegrounds (PUBG) is a multiplayer online battle royale game 
 
 ## What - Fortnite
 
-![H1Z1](C:\Users\alexa\Desktop\Alexander Punj in class assignment 05\media\Fortnite.jpg "Fortnite Splash Page")
+![H1Z1](Assignment2-Murmansk/Alexander Punj in class assignment 05/media/Fortnite.jpg "Fortnite Splash Page")
 
 Fortnite is a co-op sandbox survival video game developed by Epic Games and People Can Fly, the former also publishing the game. The game was released as a paid early access title for Microsoft Windows, macOS, PlayStation 4 and Xbox One on July 25, 2017, with a full free-to-play release expected in 2018.
 
