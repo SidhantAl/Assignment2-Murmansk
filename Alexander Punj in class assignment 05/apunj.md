@@ -13,15 +13,15 @@ In the following sections of text that was pulled from various sources, there is
 
 ## What - H1Z1
 
-![H1Z1](Assignment2-Murmansk/Alexander Punj in class assignment 05/media/h1z1.png)
+![H1Z1](media/h1z1.png "H1Z1")
 
-H1Z1 is a battle royale video game developed by Daybreak Game Company for Microsoft Windows, PlayStation 4, and Xbox One.[1] The game's development began after the original H1Z1 was spun off into two separate projects in February 2016: H1Z1: Just Survive and H1Z1: King of the Kill.[2] The games were further split as separate projects in October 2017, with Just Survive dropping the H1Z1 name, and King of the Kill becoming simply H1Z1.
+H1Z1 is a battle royale video game developed by Daybreak Game Company for Microsoft Windows, PlayStation 4, and Xbox One. The game's development began after the original H1Z1 was spun off into two separate projects in February 2016: H1Z1: Just Survive and H1Z1: King of the Kill. The games were further split as separate projects in October 2017, with Just Survive dropping the H1Z1 name, and King of the Kill becoming simply H1Z1.
 
 
 
 ## What - PUBG
 
-![PUBG](Assignment2-Murmansk/Alexander Punj in class assignment 05/media/PUBG.jpg)
+![PUBG](media/PUBG.jpg "PUBG")
 
 PlayerUnknown's Battlegrounds (PUBG) is a multiplayer online battle royale game developed and published by PUBG Corporation, a subsidiary of Korean publisher Bluehole. The game is based on previous mods that were developed by Brendan "PlayerUnknown" Greene for other games using the 2000 film Battle Royale for inspiration, and expanded into a standalone game under Greene's creative direction. In the game, up to one hundred players parachute onto an island and scavenge for weapons and equipment to kill others while avoiding getting killed themselves. The available safe area of the game's map decreases in size over time, directing surviving players into tighter areas to force encounters. The last player or team standing wins the round.
 
@@ -29,7 +29,7 @@ PlayerUnknown's Battlegrounds (PUBG) is a multiplayer online battle royale game 
 
 ## What - Fortnite
 
-![Fortnite](Assignment2-Murmansk/Alexander Punj in class assignment 05/media/Fortnite.jpg)
+![Fortnite](media/Fortnite.jpg "Fortnite")
 
 Fortnite is a co-op sandbox survival video game developed by Epic Games and People Can Fly, the former also publishing the game. The game was released as a paid early access title for Microsoft Windows, macOS, PlayStation 4 and Xbox One on July 25, 2017, with a full free-to-play release expected in 2018.
 
@@ -51,7 +51,7 @@ As the game progresses, a toxic gas cloud compresses the map, dealing damage to 
 
 Battlegrounds is a player versus player (PvP) action game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive. Players can choose to enter the match solo, or with a small team of up to four people. In either case, the last person or team left alive wins the match.
 
-Each match starts with players parachuting from a plane onto a map area approximately 8 by 8 kilometres (5.0 mi × 5.0 mi) in size. The plane's flight path across the map varies with each round, requiring players to quickly determine the best time to eject and parachute to the ground. Players start with no gear beyond customized clothing selections which do not affect gameplay. Once they land, players can search buildings and other sites to find weapons, vehicles, armor, clothing, and other equipment. These items are procedurally distributed throughout the map at the start of a match, with certain high-risk zones typically having better equipment. Killed players can be looted to acquire their gear as well.[1] Players can opt to play either from the first-person or third-person perspective, each having their own advantages and disadvantages in combat and situational awareness; though server-specific settings can be used to force all players into one perspective to eliminate some advantages.
+Each match starts with players parachuting from a plane onto a map area approximately 8 by 8 kilometres (5.0 mi × 5.0 mi) in size. The plane's flight path across the map varies with each round, requiring players to quickly determine the best time to eject and parachute to the ground. Players start with no gear beyond customized clothing selections which do not affect gameplay. Once they land, players can search buildings and other sites to find weapons, vehicles, armor, clothing, and other equipment. These items are procedurally distributed throughout the map at the start of a match, with certain high-risk zones typically having better equipment. Killed players can be looted to acquire their gear as well. Players can opt to play either from the first-person or third-person perspective, each having their own advantages and disadvantages in combat and situational awareness; though server-specific settings can be used to force all players into one perspective to eliminate some advantages.
 
 Every few minutes, the playable area of the map begins to shrink down towards a random location, with any player caught outside the safe area taking damage incrementally, and eventually being eliminated if the safe zone is not entered in time; in game, the players see the boundary as a shimmering blue wall that contracts over time. This results in a more confined map, in turn increasing the chances of encounters. During the course of the match, random regions of the map are highlighted in red and bombed, posing a threat to players who remain in that area. In both cases, players are warned a few minutes before these events, giving them time to relocate to safety. At random, a plane will fly over various parts of the playable map and drop a loot package, containing items which are typically unobtainable during normal gameplay. These packages emit highly visible red smoke, drawing interested players near it and creating further confrontations. On average, a full round takes no more than 30 minutes.
 
@@ -94,3 +94,14 @@ Lead designer Brendan Greene, better known by his online handle PlayerUnknown, h
 *Fortnite* was first revealed at the 2011 Spike Video Game Awards (VGA), with Epic's former design director Cliff Bleszinski introducing a trailer for the game. Donald Mustard, creative lead at Epic, said in 2017 that this announcement was "three weeks after we came up with the idea, before we even made the game". The title, which started out as an internal game jam project, represents a departure from the company's previous work. As Bleszinski explained during the Spike event, Epic wanted to "switch things up a little bit and do something different and fun" with *Fortnite*, describing it as "a world where you explore, you scavenge, you build and ultimately you survive."In an interview with *Engadget*, he also echoed these statements, claiming that the game would be different from the *Gears of War* series: "There's no dudebros in it...Not that there's anything wrong with that, right? But creatively for the team, Gears has been amazing for us. But it's fun to kind of stretch our wings and do something that's a little different from the usual." Epic Games Vice President of Publishing Mike Fischer said in 2015 that Epic recognized that they "announced this game too soon", and that its lengthy development was due to "very good reasons".
 
 As the game was at its very preliminary stages at the VGA reveal, the goal of this reveal was to seek public interest in the title and potential publishing partners as to decide on the game's release platforms and timeframe. During the July 2012 San Diego Comic Con, Epic announced that *Fortnite* would be an exclusive personal computer title, and the first one to be developed by Epic using their new Unreal 4 game engine, with a planned release in 2013. The game's development was originally started in the Unreal 3 engine, but as they progressed, they had seen the opportunity to work in several of the new feature sets and scripting language offered by Unreal 4 for *Fortnite*, while still running on most personal computers at that time. They further opted for personal computer exclusivity to avoid the difficulty of having to go through console certification, and as they planned to be constantly monitoring and tweaking the game, acting as a dungeon master, the personal computer approach would allow them to do this without restrictions normally set by console manfuctures. Bleszinski later clarified that they would not rule out release on other platforms as they developed the title.
+
+
+
+#### Sources:
+
+H1Z1: https://en.wikipedia.org/wiki/H1Z1
+
+PUBG: https://en.wikipedia.org/wiki/PlayerUnknown%27s_Battlegrounds
+
+Fortnite: https://en.wikipedia.org/wiki/Fortnite
+
