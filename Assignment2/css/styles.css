@@ -60,3 +60,32 @@ li a {
      text-align: center;
      font-size: 12px;
 }
+
+img {
+    width: 300px;
+}
+
+
+h1{
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 50px;
+    text-shadow:  2px 3px 2px rgba(0,0,0,0.2);
+}
+
+
+h2{
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 30px;
+}
+
+p, li{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+html, body{
+    height: 100%;
+    font-family: vendana,sans-serif;
+}
+
