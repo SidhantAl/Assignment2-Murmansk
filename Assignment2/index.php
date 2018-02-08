@@ -35,7 +35,7 @@
     <h1>Team Murmansk Assignment II</h1>
 
 	<h2>Team Roles</h2>
-	<?php include "navigation/nav.php"; ?>
+	<?php include "navigation/nav.inc"; ?>
 	</div>
     
 <div class="slider">
