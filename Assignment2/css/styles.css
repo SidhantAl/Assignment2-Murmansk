@@ -49,9 +49,10 @@ li a {
 }
 
 .footer{
-    background-color: black;
+    background-color: #571300;
     color: white;
     height: 10%;
+    padding: 5%;
   
 }
 
@@ -63,6 +64,7 @@ li a {
 
 img {
     width: 300px;
+    float: right;
 }
 
 
@@ -89,3 +91,21 @@ html, body{
     font-family: vendana,sans-serif;
 }
 
+.nav{
+    background-color: #571300;
+    padding: 5%;
+    color: #DABA76;
+    text-align: center;
+}
+
+
+
+.sectOne, .sectThree{
+    padding: 10%;
+    background-color: #DABA91;
+}
+
+.sectTwo{
+    padding: 10%;
+    background-color: #BF8F3F;
+}
