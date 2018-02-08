@@ -8,6 +8,25 @@
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+	<script src="js/sss.min.js"></script>
+	<link rel="stylesheet" href="js/sss.css" type="text/css" media="all">
+
+	<script>
+	jQuery(function($) 
+	{$('.slider').sss();});
+	</script>
+	
+	<script>
+	$('.slider').sss({
+	slideShow : true, // Set to false to prevent SSS from automatically animating.
+	startOn : 0, // Slide to display first. Uses array notation (0 = first slide).
+	transition : 400, // Length (in milliseconds) of the fade transition.
+	speed : 3500, // Slideshow speed in milliseconds.
+	showNav : true // Set to false to hide navigation arrows.
+});
+</script>
  
 </head>
 <body>
@@ -19,7 +38,12 @@
 	<?php include "navigation/nav.php"; ?>
 	</div>
     
-
+<div class="slider">
+    <img src="images/alex.jpg">
+    <img src="images/may.jpg">
+    <img src="images/sid.jpg">
+  </div>
+    
 
 
 
