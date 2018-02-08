@@ -8,7 +8,7 @@
 <body>
 	
 	<div class="nav">
-	<?php include "navigation/nav.php"; ?>
+	<?php include "navigation/nav.inc"; ?>
 	</div>
 
 	<h4>Designer</h4>
