@@ -11,7 +11,7 @@
 	
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 	<script src="js/sss.min.js"></script>
-	<link rel="stylesheet" href="js/sss.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/sss.css" type="text/css" media="all">
 
 	<script>
 	jQuery(function($) 
@@ -20,29 +20,27 @@
 	
 	<script>
 	$('.slider').sss({
-	slideShow : true, // Set to false to prevent SSS from automatically animating.
+	slideShow : false, // Set to false to prevent SSS from automatically animating.
 	startOn : 0, // Slide to display first. Uses array notation (0 = first slide).
 	transition : 400, // Length (in milliseconds) of the fade transition.
 	speed : 3500, // Slideshow speed in milliseconds.
 	showNav : true // Set to false to hide navigation arrows.
-});
-</script>
+    });
+    </script>
  
 </head>
+    
 <body>
-	
-	<div class="nav">
-    <h1>Team Murmansk Assignment II</h1>
+	<?php include "inc/nav.inc"; ?>
 
-	<h2>Team Roles</h2>
-	<?php include "navigation/nav.inc"; ?>
-	</div>
     
 <div class="slider">
-    <img src="images/alex.jpg" alt="Alex">
-    <img src="images/may.jpg" alt="May">
-    <img src="images/sid.jpg" alt="Sidhant">
-  </div>
+    <img src="images/cover1.jpg" alt="IA">
+
+    <img src="images/cover2.jpg" alt="Designer">
+   <img src="images/cover3.png" alt="Coder">
+
+</div>
     
 
 
