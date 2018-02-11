@@ -10,8 +10,8 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-	<script src="js/sss.min.js"></script>
-	<link rel="stylesheet" href="css/sss.css" type="text/css" media="all">
+	<script src="sss/sss.js"></script>
+	<link rel="stylesheet" href="sss/sss.css" type="text/css" media="all">
 
 	<script>
 	jQuery(function($) 
@@ -21,10 +21,10 @@
 	<script>
 	$('.slider').sss({
 	slideShow : false, // Set to false to prevent SSS from automatically animating.
-	startOn : 0, // Slide to display first. Uses array notation (0 = first slide).
-	transition : 400, // Length (in milliseconds) of the fade transition.
-	speed : 3500, // Slideshow speed in milliseconds.
-	showNav : true // Set to false to hide navigation arrows.
+	startOn : 2, // Slide to display first. Uses array notation (0 = first slide).
+//	transition : 400, // Length (in milliseconds) of the fade transition.
+//	speed : 3500, // Slideshow speed in milliseconds.
+//	showNav : true // Set to false to hide navigation arrows.
     });
     </script>
  
@@ -42,17 +42,16 @@
 
 </div>
     
-
-
-
-    
     <div class="sectOne">
 
-	<h4>Information Architect</h4>
-	<h5>Sidhant Ahluwalia</h5>
+	<h1>Information Architect</h4>
+	<h3>Sidhant Ahluwalia</h3>
+    
+    <img src="images/sid.jpg" alt="Sidhant">
+        
 
 	<p>I've chosen to be an IA as I have a good sense of what the role entails, I've had experience with working with webpages and their layouts in CSC 170 and various other CS class projects</p>
-	<img src="images/sid.jpg" alt="Sidhant">
+	
 
 	<p>Hi, I’m Sidhant Ahluwalia, I'm a computer science major at the University of Rochester. My area of study is focused in Human-computer Interaction, ties in my interest in learning how design can make or break a product. </p>
 
@@ -62,11 +61,13 @@
     
     <div class="sectTwo">
 
-	<h4>Designer</h4>
-	<h5>Lotus May</h5>
+	<h1>Designer</h1>
+	<h3>Lotus May</h3>
+        
+    <img src="images/may.jpg" alt="May">
 
 	<p>Hours, minutes, and seconds cease When I let go my inner disease. Palettes of color exude their rgb While Mr. CSS hums his melody. In the world of web development Design is my ideal amusement.</p>
-	<img src="images/may.jpg" alt="May">
+
 
 
 	<p>Hello! Welcome to my site. Let me introduce myself. Not to make you all confuse, I actually have three different names: Hnin Oo Wai, Lotus May and May Shin Lyan. The first is my official name which I hardly use in my personal life. The second is my pen name and the last is the name I use in my daily life. Forget all I say, you can call me May. :)</p>
@@ -78,10 +79,12 @@
     
     <div class="sectThree">
 
-	<h4>Coder</h4>
-	<h5>Alexander Punj</h5>
+	<h1>Coder</h1>
+	<h3>Alexander Punj</h3>
+    
+    <img src="images/alex.jpg" alt="Alex">
 	<p>I really enjoy writing and debugging web code. Web code is one subject that makes 100% sense to me and gets me excited to start my day. Over the semester break I ended up coding three websites, and enjoyed learning about new CSS frameworks like Bootstrap. You can visit them in the homepage.</p>
-	<<img src="images/alex.jpg" alt="Alex">
+
 
 	<p>Hello! My name is Alexander Punj and I am a student at the University of Rochester! Before applying to colleges, my father and I went on a road trip starting at the University of Rochester and ending at MIT</p>
 	<p> Along the way, we visited Hobart & William Smith Colleges, RPI, Clark University, Brandeis University, Bates College, and Bowdoin College before settling in central Boston. I enjoyed RPI, Rochester, Bowdoin and MIT the most out of that trip. The reason I chose to visit these colleges is that their admissions policy included optional submission of SAT and or ACT, as my test-taking skills were poor and was reflected on my SAT scores. I was leaning towards the University of Rochester because this school was the only one that offered an Audio & Music Engineering major. I applied to the university as an Early Applicant, and subsequently join the varsity tennis team when I entered. However, I have left that major as a minor and left the tennis team. I now am an Economics major with a minor in Audio & Music Engineering in my junior year.</p>

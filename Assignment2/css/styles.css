@@ -63,6 +63,8 @@ li a {
 img {
     width: 300px;
     float: right;
+    padding: 1em;
+    padding: 1em;
 }
 
 
@@ -100,11 +102,25 @@ html, body{
 
 
 .sectOne, .sectThree{
-    padding: 10%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
     background-color: #DABA91;
 }
 
 .sectTwo{
-    padding: 10%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
     background-color: #BF8F3F;
+}
+
+.container{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    background-color:#DABA91; 
 }

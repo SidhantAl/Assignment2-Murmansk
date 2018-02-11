@@ -6,7 +6,7 @@
 <div class="nav">
     <ul>
   		<li><a href="index.php">Home</a></li>
-  		<li><a href="ai.php">AI</a></li>
+  		<li><a href="ai.php">IA</a></li>
   		<li><a href="designer.php">Designer</a></li>
   		<li><a href="coder.php">Coder</a></li>
     </ul>

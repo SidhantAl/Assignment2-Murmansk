@@ -7,7 +7,7 @@ $.fn.sss = function(options) {
 // Options
 
 	var settings = $.extend({
-	slideShow : true,
+	slideShow : false,
 	startOn : 0,
 	speed : 3500,
 	transition : 400,
