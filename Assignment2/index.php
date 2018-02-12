@@ -20,7 +20,7 @@
 	
 	<script>
 	$('.slider').sss({
-	slideShow : false, // Set to false to prevent SSS from automatically animating.
+	slideShow : true, // Set to false to prevent SSS from automatically animating.
 	startOn : 2, // Slide to display first. Uses array notation (0 = first slide).
 //	transition : 400, // Length (in milliseconds) of the fade transition.
 //	speed : 3500, // Slideshow speed in milliseconds.
